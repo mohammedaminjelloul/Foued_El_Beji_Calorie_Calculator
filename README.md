@@ -1,6 +1,6 @@
 
 
-# Foued_El_Beji_Carls_Calculator <br />
+# Foued_El_Beji_Calorie_Calculator <br />
  ![rsz_unnamed](https://user-images.githubusercontent.com/76473058/212361058-cad6e142-fd8b-4098-adc0-65d8126af6c6.jpg)<br />
 Check his video to learn more 👇<br />
 https://www.youtube.com/watch?v=QUATptCllX0&t=606s <br />
