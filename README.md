@@ -1,5 +1,4 @@
-![unnamed](https://user-images.githubusercontent.com/76473058/212360753-e64dcd88-4145-45e5-8446-a4c55c7f3f8e.jpg) <br />
-
+ ![rsz_unnamed](https://user-images.githubusercontent.com/76473058/212361058-cad6e142-fd8b-4098-adc0-65d8126af6c6.jpg)<br />
 
 # Foued_El_Beji_Carbs_Calculator <br />
 Check his video to learn more 👇<br />
