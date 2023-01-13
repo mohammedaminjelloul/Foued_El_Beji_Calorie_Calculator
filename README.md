@@ -6,7 +6,7 @@ Exécuter le programme avec un IDE 💻 <br />
 
 
 ![sc1](https://user-images.githubusercontent.com/76473058/212358954-290877e9-8d16-42c2-a6f9-419152cb256b.png)
-![sc2](https://user-images.githubusercontent.com/76473058/212358967-9c3906be-3de0-4b8f-9794-bc5275581432.png)
+![sc2](https://user-images.githubusercontent.com/76473058/212358967-9c3906be-3de0-4b8f-9794-bc5275581432.png)<br />
 (Signification des symboles  dans le fichier texte)<br />
 P====La totalité des proteines<br />
 C====La totalité des Carbo <br />
