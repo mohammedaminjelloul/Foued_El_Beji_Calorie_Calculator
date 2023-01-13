@@ -1,5 +1,5 @@
 # Foued_El_Beji_Carbs_Calculator <br />
-Check his video to learn more 👇
+Check his video to learn more 👇<br />
 https://www.youtube.com/watch?v=QUATptCllX0&t=606s <br />
 Exécuter le programme avec un IDE <br />💻
 ![ezgif-3-14fc7b698d](https://user-images.githubusercontent.com/76473058/212333282-468996d9-8432-453d-9df1-1ae30b416409.gif) <br />
