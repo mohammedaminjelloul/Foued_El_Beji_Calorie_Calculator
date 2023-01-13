@@ -4,8 +4,8 @@ Exécuter le programme avec un IDE
 
 (Signification eds caracteres  dans le fichier texte)
 
-P====La totalité des proteines
-C====La totalité des Carbo
-F====La totalité des Fats
+P====La totalité des proteines \n
+C====La totalité des Carbo \n
+F====La totalité des Fats  \n
 cals====La totalité des Calories
 
